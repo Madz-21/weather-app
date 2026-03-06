@@ -11,7 +11,6 @@ Search any city on Earth, track live conditions, and verify accuracy through off
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Open-Meteo](https://img.shields.io/badge/API-Open--Meteo-38bdf8?style=flat-square)](https://open-meteo.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
 
 <br/>
 
@@ -181,5 +180,6 @@ Made with ☁️ by **[AhmadSP](https://github.com/Madz-21/)**
 *If this project helped you, consider giving it a ⭐ on GitHub!*
 
 </div>
+
 
 
