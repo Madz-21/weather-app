@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/SkyPulse-Real--Time%20Weather-38bdf8?style=for-the-badge&logo=cloud&logoColor=white" alt="SkyPulse"/>
+<img src="./assets/image/Sample.png" alt="SkyPulse"/>
 
 # 🌤 SkyPulse — Real-Time Weather Intelligence
 
@@ -205,3 +205,4 @@ Made with ☁️ by **[AhmadSP](https://github.com/AhmadSP)**
 _If this project helped you, consider giving it a ⭐ on GitHub!_
 
 </div>
+
