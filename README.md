@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/image/Sample.png" alt="SkyPulse"/>
+<img src="https://img.shields.io/badge/SkyPulse-Real--Time%20Weather-38bdf8?style=for-the-badge&logo=cloud&logoColor=white" alt="SkyPulse"/>
 
 # 🌤 SkyPulse — Real-Time Weather Intelligence
 
@@ -15,9 +15,9 @@ Search any city on Earth, track live conditions, and verify accuracy through off
 
 <br/>
 
-![SkyPulse Preview](https://i.imgur.com/placeholder.png)
+![SkyPulse Preview](./assets/image/Sample.png)
 
-> _Replace the preview image above with an actual screenshot of your app._
+> *Replace the preview image above with an actual screenshot of your app.*
 
 </div>
 
@@ -25,21 +25,21 @@ Search any city on Earth, track live conditions, and verify accuracy through off
 
 ## ✨ Features
 
-| Feature                             | Description                                                              |
-| ----------------------------------- | ------------------------------------------------------------------------ |
+| Feature | Description |
+|---|---|
 | 🔍 **Global Search + Autocomplete** | Search any city, region, or country worldwide with real-time suggestions |
-| 📍 **GPS Location**                 | One-click detection of your current location via browser geolocation     |
-| 🌡️ **°C / °F Toggle**               | Switch temperature units instantly across all values                     |
-| ⏰ **Local City Clock**             | Live clock synced to the searched city's exact timezone                  |
-| 📊 **24-Hour Forecast**             | Scrollable hourly breakdown with temperature & precipitation probability |
-| 📅 **7-Day Forecast**               | Weekly overview with temperature range bars and weather icons            |
-| 🌬️ **Wind Compass**                 | Animated compass showing real-time wind direction and gusts              |
-| ☀️ **Sun Arc Visualizer**           | Live sun position arc with sunrise, sunset & day length                  |
-| 🟡 **UV Index Meter**               | Color-coded UV scale from Low to Extreme                                 |
-| 🚨 **Severe Weather Alerts**        | Auto-triggered banner for thunderstorms, heavy rain, and extreme events  |
-| 🔗 **Official Source Verification** | Direct links to BMKG, NOAA, ECMWF, Met Office, WMO for cross-checking    |
-| 📱 **Fully Responsive**             | Optimized for desktop, tablet, and mobile screens                        |
-| 🔄 **Auto Refresh**                 | Weather data refreshes automatically every 10 minutes                    |
+| 📍 **GPS Location** | One-click detection of your current location via browser geolocation |
+| 🌡️ **°C / °F Toggle** | Switch temperature units instantly across all values |
+| ⏰ **Local City Clock** | Live clock synced to the searched city's exact timezone |
+| 📊 **24-Hour Forecast** | Scrollable hourly breakdown with temperature & precipitation probability |
+| 📅 **7-Day Forecast** | Weekly overview with temperature range bars and weather icons |
+| 🌬️ **Wind Compass** | Animated compass showing real-time wind direction and gusts |
+| ☀️ **Sun Arc Visualizer** | Live sun position arc with sunrise, sunset & day length |
+| 🟡 **UV Index Meter** | Color-coded UV scale from Low to Extreme |
+| 🚨 **Severe Weather Alerts** | Auto-triggered banner for thunderstorms, heavy rain, and extreme events |
+| 🔗 **Official Source Verification** | Direct links to BMKG, NOAA, ECMWF, Met Office, WMO for cross-checking |
+| 📱 **Fully Responsive** | Optimized for desktop, tablet, and mobile screens |
+| 🔄 **Auto Refresh** | Weather data refreshes automatically every 10 minutes |
 
 ---
 
@@ -47,16 +47,16 @@ Search any city on Earth, track live conditions, and verify accuracy through off
 
 SkyPulse fetches data exclusively from trusted, official meteorological sources:
 
-| Source                        | Role                                               | Link                                                               |
-| ----------------------------- | -------------------------------------------------- | ------------------------------------------------------------------ |
-| **Open-Meteo**                | Primary weather API (ECMWF model)                  | [open-meteo.com](https://open-meteo.com)                           |
-| **Nominatim / OpenStreetMap** | Geocoding & reverse geocoding                      | [nominatim.openstreetmap.org](https://nominatim.openstreetmap.org) |
-| **TimeAPI.io**                | Timezone resolution per coordinate                 | [timeapi.io](https://timeapi.io)                                   |
-| **BMKG**                      | Indonesian official meteorology agency             | [bmkg.go.id](https://www.bmkg.go.id)                               |
-| **NOAA**                      | US National Oceanic & Atmospheric Administration   | [noaa.gov](https://www.noaa.gov)                                   |
-| **UK Met Office**             | British national weather service                   | [metoffice.gov.uk](https://www.metoffice.gov.uk)                   |
-| **ECMWF**                     | European Centre for Medium-Range Weather Forecasts | [ecmwf.int](https://www.ecmwf.int)                                 |
-| **WMO**                       | World Meteorological Organization                  | [wmo.int](https://www.wmo.int)                                     |
+| Source | Role | Link |
+|---|---|---|
+| **Open-Meteo** | Primary weather API (ECMWF model) | [open-meteo.com](https://open-meteo.com) |
+| **Nominatim / OpenStreetMap** | Geocoding & reverse geocoding | [nominatim.openstreetmap.org](https://nominatim.openstreetmap.org) |
+| **TimeAPI.io** | Timezone resolution per coordinate | [timeapi.io](https://timeapi.io) |
+| **BMKG** | Indonesian official meteorology agency | [bmkg.go.id](https://www.bmkg.go.id) |
+| **NOAA** | US National Oceanic & Atmospheric Administration | [noaa.gov](https://www.noaa.gov) |
+| **UK Met Office** | British national weather service | [metoffice.gov.uk](https://www.metoffice.gov.uk) |
+| **ECMWF** | European Centre for Medium-Range Weather Forecasts | [ecmwf.int](https://www.ecmwf.int) |
+| **WMO** | World Meteorological Organization | [wmo.int](https://www.wmo.int) |
 
 > All data is fetched live with no caching layer — what you see is real-time.
 
@@ -80,14 +80,12 @@ xdg-open weather-app.html    # Linux
 ### Option 2 — Serve locally (recommended)
 
 Using Python:
-
 ```bash
 python3 -m http.server 8080
 # Then open http://localhost:8080/weather-app.html
 ```
 
 Using Node.js (`npx serve`):
-
 ```bash
 npx serve .
 ```
@@ -120,9 +118,9 @@ skypulse/
 <details>
 <summary>Click to expand</summary>
 
-| Desktop View       | Mobile View        |
-| ------------------ | ------------------ |
-| _(Add screenshot)_ | _(Add screenshot)_ |
+| Desktop View | Mobile View |
+|---|---|
+| *(Add screenshot)* | *(Add screenshot)* |
 
 </details>
 
@@ -130,7 +128,7 @@ skypulse/
 
 ## 🌐 Live Demo
 
-> 🔗 **[skypulse.vercel.app](https://skypulse.vercel.app)** _(update this with your actual deployment URL)_
+> 🔗 **[skypulse.vercel.app](https://skypulse.vercel.app)** *(update this with your actual deployment URL)*
 
 ---
 
@@ -202,7 +200,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 Made with ☁️ by **[AhmadSP](https://github.com/AhmadSP)**
 
-_If this project helped you, consider giving it a ⭐ on GitHub!_
+*If this project helped you, consider giving it a ⭐ on GitHub!*
 
 </div>
-
