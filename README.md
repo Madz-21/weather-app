@@ -105,7 +105,7 @@ skypulse/
 ├── README.md            # You are here
 ```
 
-> SkyPulse is intentionally built as a **single HTML file** — zero external dependencies, zero build steps, portable and lightweight.
+> SkyPulse is intentionally built as a zero external dependencies, zero build steps, portable and lightweight.
 
 ---
 
@@ -180,6 +180,7 @@ Made with ☁️ by **[AhmadSP](https://github.com/Madz-21/)**
 *If this project helped you, consider giving it a ⭐ on GitHub!*
 
 </div>
+
 
 
 
