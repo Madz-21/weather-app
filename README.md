@@ -67,7 +67,7 @@ No build tools, no dependencies, no installation required.
 ### Option 1 — Open directly in browser
 
 ```bash
-git clone https://github.com/AhmadSP/skypulse.git
+git clone https://github.com/Madz-21/weather-app.git
 cd skypulse
 # Open weather-app.html in your browser
 open weather-app.html        # macOS
@@ -93,7 +93,7 @@ npx serve .
 1. Push this repo to GitHub
 2. Go to **Settings → Pages**
 3. Set source to `main` branch, root `/`
-4. Your app will be live at `https://yourusername.github.io/skypulse/weather-app.html`
+4. Your app will be live at `https://yourusername.github.io/weather-app/index.html`
 
 ---
 
@@ -104,29 +104,15 @@ skypulse/
 │
 ├── weather-app.html     # Main app — single self-contained file
 ├── README.md            # You are here
-└── LICENSE              # MIT License
 ```
 
 > SkyPulse is intentionally built as a **single HTML file** — zero external dependencies, zero build steps, portable and lightweight.
 
 ---
 
-## 📸 Screenshots
-
-<details>
-<summary>Click to expand</summary>
-
-| Desktop View | Mobile View |
-|---|---|
-| *(Add screenshot)* | *(Add screenshot)* |
-
-</details>
-
----
-
 ## 🌐 Live Demo
 
-> 🔗 **[skypulse.vercel.app](https://skypulse.vercel.app)** *(update this with your actual deployment URL)*
+> 🔗 **[My weather web app](https://madz-weather.vercel.app)**
 
 ---
 
@@ -188,17 +174,12 @@ git push origin feature/your-feature-name
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
 
-Made with ☁️ by **[AhmadSP](https://github.com/AhmadSP)**
+Made with ☁️ by **[AhmadSP](https://github.com/Madz-21/)**
 
 *If this project helped you, consider giving it a ⭐ on GitHub!*
 
 </div>
+
 
