@@ -17,8 +17,6 @@ Search any city on Earth, track live conditions, and verify accuracy through off
 
 ![SkyPulse Preview](./assets/image/Sample.png)
 
-> *Replace the preview image above with an actual screenshot of your app.*
-
 </div>
 
 ---
@@ -203,3 +201,4 @@ Made with ☁️ by **[AhmadSP](https://github.com/AhmadSP)**
 *If this project helped you, consider giving it a ⭐ on GitHub!*
 
 </div>
+
